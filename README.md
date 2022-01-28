@@ -2,11 +2,21 @@
 
 ## Soy Leonardo Chourio, Ingeniero de Computación y Desarrollador de Front-End
 
-### Puedes encontrarme en:
+### Puedes encontrarme en :information_source::id::
 
-[LinkedIn](https://www.linkedin.com/in/leonardo-chourio-387839201/)
+[LinkedIn](https://www.linkedin.com/in/leonardo-chourio-387839201/) [Instagram](https://www.instagram.com/leoch17/)
 
 ### Herramientas y Conocimientos :computer::
+
+HTML 5
+CSS 3
+JavaScript
+React Native
+React.Js
+Node.Js
+Postgre SQL
+Github
+VS Code
 
 
 <!--
