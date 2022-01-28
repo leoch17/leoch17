@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hola a Todos!! 👋
+
+## Soy Leonardo Chourio, Ingeniero de Computación y Desarrollador de Front-End
+
+### Herramientas y Conocimientos :computer::
+
 
 <!--
 **leoch17/leoch17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
