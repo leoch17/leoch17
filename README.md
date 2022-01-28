@@ -2,6 +2,10 @@
 
 ## Soy Leonardo Chourio, Ingeniero de Computación y Desarrollador de Front-End
 
+### Puedes encontrarme en:
+
+[LinkedIn](https://www.linkedin.com/in/leonardo-chourio-387839201/)
+
 ### Herramientas y Conocimientos :computer::
 
 
