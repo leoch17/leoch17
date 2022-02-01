@@ -11,7 +11,9 @@
 HTML 5
 CSS 3
 JavaScript
+TypeScript
 React Native
+Express
 React.Js
 Node.Js
 Postgre SQL
