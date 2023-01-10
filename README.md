@@ -12,11 +12,13 @@ HTML 5
 CSS 3
 JavaScript
 TypeScript
+Python
 React Native
 Express
 React.Js
 Node.Js
 Postgre SQL
+MySQL
 Github
 VS Code
 
