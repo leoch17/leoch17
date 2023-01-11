@@ -1,6 +1,10 @@
-### Hola a Todos!! 👋
+## Saludos!!
 
-## Soy Leonardo Chourio, Ingeniero de Computación y Desarrollador de Front-End
+## Soy Leonardo Chourio, Ingeniero de Computación, he trabajo como especialista en soporte técnico y me dedico a desarrollar páginas web y aplicaciones móviles.  Si desea ver algunos de los proyectos en los que he trabajado en mi tiempo libre, consulte mi perfil de GitHub: https://github.com/leoch17/Portafolio. 
+
+Si echa un vistazo a mi github, en su mayoría son proyectos repetitivos que no están finalizados. No creo que sean representaciones
+precisas de la calidad del trabajo que me gustaria realizar como empleado de tiempo completo, pero les dará una idea de las tecnologías con
+las que trabajo con frecuencia. 
 
 ### Puedes encontrarme en :information_source::id::
 
