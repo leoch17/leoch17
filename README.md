@@ -2,7 +2,7 @@
 
 ## Soy Leonardo Chourio, Ingeniero de Computación.
 
-He trabajo como especialista en soporte técnico y me dedico a desarrollar páginas y aplicaciones web y aplicaciones móviles.  Si desea ver algunos de los proyectos en los que he trabajado en mi tiempo libre, consulte mi perfil de GitHub: https://github.com/leoch17/Portafolio. 
+He trabajo como especialista en soporte técnico y me dedico a desarrollar páginas y aplicaciones web y aplicaciones móviles.  Si desea ver algunos de los proyectos en los que he trabajado en mi tiempo libre, consulte mi perfil de GitHub: https://github.com/leoch17?tab=repositories. 
 
 Si echas un vistazo a mi github, en su mayoría son prototipos de contenidos recurrentes no culminados; esto te dará una idea de las tecnologías con
 las que trabajo frecuentemente, sin embargo, es necesario aclarar que estos prototipos no representan la calidad del trabajo que me gustaria realizar como empleado de tiempo completo.
