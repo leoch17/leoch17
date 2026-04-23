@@ -47,8 +47,8 @@ Desarrollador Full-Stack especializado en **React** y **Node.js**, con experienc
 | [🛒 E-Commerce Ruedas La Mundial](https://github.com/leoch17/ruedas-la-mundial-ecommerce) | React · Node.js · MySQL | Plataforma de venta online con 6 sucursales, stock en tiempo real y sistema de tokens de fidelización |
 | [💼 Portal de Empleos](https://github.com/leoch17/portal-empleos-la-mundial) | React · Node.js · MySQL | Sistema de gestión de vacantes y postulaciones con panel de administración |
 | [🌐 Yokohama Landing](https://github.com/leoch17/yokohama-landing-nextjs) | Next.js · Tailwind CSS | Sitio corporativo migrado a Next.js con mejoras de rendimiento y SEO |
-| [🏢 11 Sitios de Marcas Internacionales](https://github.com/leoch17/sitios-marcas-internacionales) | React · Next.js · Bootstrap | Landing pages para Hankook, Dunlop, Gulf, Valvoline y más |
-| [📱 App Suscripción Móvil](https://github.com/leoch17/app-suscripcion-mobile) | React Native · TypeScript · MongoDB | App de suscripción a servicios automotrices con sistema de tokens |
+| [🏢 11 Sitios de Marcas Internacionales](https://github.com/leoch17/sitios-marcas-internacionales) | Next.js · Tailwind CSS | Landing pages para Hankook, Dunlop, Gulf, Prinx y más |
+| [📱 App Suscripción Móvil](https://github.com/leoch17/app-suscripcion-mobile) | React Native · TypeScript · MySQL | App de suscripción a servicios automotrices con sistema de tokens |
 | [🤖 Intranet Chatbot](https://github.com/leoch17/intranet-chatbot-poliolefinas) | Python · MySQL | Chatbot para actualización automatizada de Intranet corporativa |
 
 ---
