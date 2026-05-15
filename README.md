@@ -4,6 +4,8 @@
 
 Desarrollador Full-Stack especializado en **React** y **Node.js**, con experiencia construyendo productos digitales en producción: e-commerce, portales corporativos, aplicaciones móviles e integraciones con APIs externas. Disponible para trabajo remoto — España, México, Argentina, LATAM y EE.UU.
 
+Web Personal: https://portfolio-web-leonardo-chourio.vercel.app/
+
 ---
 
 ## 🛠️ Stack tecnológico
@@ -48,8 +50,6 @@ Desarrollador Full-Stack especializado en **React** y **Node.js**, con experienc
 | [💼 Portal de Empleos](https://github.com/leoch17/Job-Portal-Grupo-La-Mundial) | Laravel · Blade · Node.js · MySQL | Sistema de gestión de vacantes y postulaciones con panel de administración |
 | [🌐 Yokohama Landing](https://github.com/leoch17/yokohama-landing-nextjs) | Next.js · Tailwind CSS | Sitio corporativo migrado a Next.js con mejoras de rendimiento y SEO |
 | [🏢 11 Sitios de Marcas Internacionales](https://github.com/leoch17/sitios-marcas-internacionales) | Next.js · Tailwind CSS | Landing pages para Hankook, Dunlop, Gulf, Prinx y más |
-| [📱 App Suscripción Móvil](https://github.com/leoch17/app-suscripcion-mobile) | React Native · TypeScript · MySQL | App de suscripción a servicios automotrices con sistema de tokens |
-| [🤖 Intranet Chatbot](https://github.com/leoch17/intranet-chatbot-poliolefinas) | Python · MySQL | Chatbot para actualización automatizada de Intranet corporativa |
 
 ---
 
